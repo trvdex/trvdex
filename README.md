@@ -4,11 +4,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a soon-to-graduate Software Engineering student with a strong passion for data and technology. Currently, I am working as a data analyst at an IT consultancy. I thrive on learning, innovation, and building solutions that are creative and impactful
-- 🌱 I’m currently enhancing my skills in ...
-  - Power BI
-  - Pandas
-  - SQL
+I am a Software Engineering graduate and Data Engineer with a strong passion for data and technology. I currently work as a data engineer at an IT consultancy, designing and building data solutions. I am also pursuing a Master's Degree in Artificial Intelligence at UNIR.
+- 🤖 I'm currently deepening my knowledge in:
+  - Machine Learning & Deep Learning
+  - Computer Vision
+  - Natural Language Processing
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮I love gaming, 🎵 listening to music, and ⛩️ anime.
 - 📫 Reach out to me at: <a href="mailto:davidcominomuriano@gmail.com">davidcominomuriano@gmail.com</a>
